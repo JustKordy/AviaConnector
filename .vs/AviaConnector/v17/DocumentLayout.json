@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kordys\\Desktop\\All\\projects\\AviaConnector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D6870B-B2DF-877C-3B5B-9E7CA763937C}|App\\App.vcxproj|C:\\Users\\Kordys\\Desktop\\All\\projects\\AviaConnector\\App\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46D6870B-B2DF-877C-3B5B-9E7CA763937C}|App\\App.vcxproj|solutionrelative:App\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D6870B-B2DF-877C-3B5B-9E7CA763937C}|App\\App.vcxproj|C:\\USERS\\KORDYS\\DESKTOP\\ALL\\PROJECTS\\AVIACONNECTOR\\VENDOR\\INCLUDE\\SIMCONNECT\\SIMCONNECT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46D6870B-B2DF-877C-3B5B-9E7CA763937C}|App\\App.vcxproj|solutionrelative:VENDOR\\INCLUDE\\SIMCONNECT\\SIMCONNECT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimConnect.h",
+              "DocumentMoniker": "C:\\Users\\Kordys\\Desktop\\All\\projects\\AviaConnector\\Vendor\\include\\SimConnect\\SimConnect.h",
+              "RelativeDocumentMoniker": "Vendor\\include\\SimConnect\\SimConnect.h",
+              "ToolTip": "C:\\Users\\Kordys\\Desktop\\All\\projects\\AviaConnector\\Vendor\\include\\SimConnect\\SimConnect.h",
+              "RelativeToolTip": "Vendor\\include\\SimConnect\\SimConnect.h",
+              "ViewState": "AgIAABsCAAAAAAAAAAAMwDICAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T17:33:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\Kordys\\Desktop\\All\\projects\\AviaConnector\\App\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "App\\src\\Application.cpp",
+              "ToolTip": "C:\\Users\\Kordys\\Desktop\\All\\projects\\AviaConnector\\App\\src\\Application.cpp",
+              "RelativeToolTip": "App\\src\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T16:57:26.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

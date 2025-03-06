@@ -1,5 +1,5 @@
 
-workspace "Workspace"
+workspace "AviaConnector"
     configurations { "Debug", "Release"}
     platforms { "Win64"}
 
@@ -14,8 +14,6 @@ workspace "Workspace"
     filter "configurations:Debug"
         defines { "DEBUG", "WAIT=std::cin.get()" }
 
-
-
 project "App"
     kind "ConsoleApp"
     language "C++"
@@ -23,3 +21,15 @@ project "App"
     files {"App/src/**.cpp", "App/src/**.h", "App/src/**.hpp" }
     targetdir "Build/%{cfg.system}-%{cfg.architecture}/%{cfg.buildcfg}/%{prj.name}"
     objdir "Build/objdir/%{cfg.system}-%{cfg.architecture}/%{cfg.buildcfg}/%{prj.name}"
+
+    includedirs{
+        "Vendor/include"
+    }
+
+    libdirs{
+        "Vendor/lib"
+    }
+
+    links{
+        "SimConnect"
+    }
