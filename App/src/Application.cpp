@@ -14,7 +14,7 @@ struct AircraftData {
     double longitude;
     double altitude;
     double pitch;
-
+    double yaw;
 };
 
 void CALLBACK MyDispatchProc(SIMCONNECT_RECV* pData, DWORD cbData, void* pContext)
